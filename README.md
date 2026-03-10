@@ -41,17 +41,17 @@ var me = Engineer{
 <div align="center">
 
 <!-- Languages -->
-<img src="https://metrics.lecoq.io/tedmax100?template=classic&base=0&languages=1&config.timezone=Asia%2FTaipei&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C+programming%2C+prose&languages.recent.categories=markup%2C+programming%2C+prose&languages.recent.load=300&languages.recent.days=14&config.padding=6%25" alt="Languages" width="49%" />
+<img src="./metrics.languages.svg" alt="Languages" width="49%" />
 
 <!-- Habits -->
-<img src="https://metrics.lecoq.io/tedmax100?template=classic&base=0&habits=1&config.timezone=Asia%2FTaipei&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&config.padding=6%25" alt="Coding Habits" width="49%" />
+<img src="./metrics.habits.svg" alt="Coding Habits" width="49%" />
 
 </div>
 
 <div align="center">
 
 <!-- Achievements -->
-<img src="https://metrics.lecoq.io/tedmax100?template=classic&base=0&achievements=1&config.timezone=Asia%2FTaipei&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.padding=6%25" alt="Achievements" width="98%" />
+<img src="./metrics.achievements.svg" alt="Achievements" width="98%" />
 
 </div>
 
